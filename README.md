@@ -3,3 +3,4 @@ o comb sort é um algorítimo de ordenação simple baseado na troca de posiçã
 
 sobre o comb sort pode acessar a wikpedia: https://pt.wikipedia.org/wiki/Comb_sort
 
+código usado na faculdade para entender esse método de ordenação
