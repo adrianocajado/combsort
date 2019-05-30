@@ -36,3 +36,4 @@ $array = array(27,13,9,1,4);
     for ($i=0; $i<$tamanho; $i++){
         echo "valor no indice =>[". $i. "] é ". $array[$i].'<br>';
     }
+    // fim do algorítimo
